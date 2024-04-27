@@ -30,7 +30,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Hello, World!</h1>
+        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Hello, All!!</h1>
+        <h2>Soorya's ''Githubactions Pipeline is Successful''</h2>
       </header>
     </div>
   );
